@@ -29,6 +29,8 @@ Lib/test/xmltestdata/* -text
 Lib/test/coding20731.py -text
 Lib/test/test_importlib/data01/* -text
 
+
+* text eol=auto
 # CRLF files
 *.bat text eol=crlf
 *.ps1 text eol=crlf
